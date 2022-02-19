@@ -1,0 +1,6 @@
+framework module Pods_mofire {
+  umbrella header "Pods-mofire-umbrella.h"
+
+  export *
+  module * { export * }
+}
